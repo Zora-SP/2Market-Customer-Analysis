@@ -1,0 +1,49 @@
+country,products,bulkmail_sum,twitter_sum,instagram_sum,facebook_sum,brochure_sum
+Australia,Alcohol,4,3,5,4,0
+Australia,Chocolate,5,3,5,4,0
+Australia,Commodities,3,3,5,4,0
+Australia,Fish,4,4,5,4,0
+Australia,Meat,5,4,7,6,0
+Australia,Vegetables,5,4,7,5,0
+Canada,Alcohol,7,7,8,9,6
+Canada,Chocolate,9,13,11,9,5
+Canada,Commodities,9,13,11,9,6
+Canada,Fish,9,13,9,10,4
+Canada,Meat,8,12,8,9,3
+Canada,Vegetables,10,10,14,12,6
+Germany,Alcohol,2,6,5,5,2
+Germany,Chocolate,2,8,5,6,2
+Germany,Commodities,2,6,5,5,2
+Germany,Fish,4,6,6,5,2
+Germany,Meat,3,7,5,5,2
+Germany,Vegetables,5,7,5,6,2
+India,Alcohol,6,4,5,5,2
+India,Chocolate,5,4,5,6,1
+India,Commodities,5,7,5,5,2
+India,Fish,7,5,6,5,2
+India,Meat,7,4,5,5,1
+India,Vegetables,7,3,6,5,1
+Montenegro,Alcohol,1,0,0,0,0
+Montenegro,Chocolate,1,0,0,0,0
+Montenegro,Commodities,1,0,0,0,0
+Montenegro,Fish,1,0,0,0,0
+Montenegro,Meat,1,0,0,0,0
+Montenegro,Vegetables,1,0,0,0,0
+South Africa,Alcohol,6,5,7,5,4
+South Africa,Chocolate,8,8,11,8,1
+South Africa,Commodities,7,7,7,5,4
+South Africa,Fish,9,7,8,6,1
+South Africa,Meat,12,10,9,9,3
+South Africa,Vegetables,10,10,8,9,4
+Spain,Alcohol,27,21,25,25,8
+Spain,Chocolate,57,56,60,46,12
+Spain,Commodities,30,30,26,28,9
+Spain,Fish,49,46,55,45,10
+Spain,Meat,54,43,52,43,7
+Spain,Vegetables,59,65,57,48,15
+United States,Alcohol,1,4,3,3,0
+United States,Chocolate,3,2,4,6,0
+United States,Commodities,3,4,3,3,0
+United States,Fish,1,3,3,4,0
+United States,Meat,3,2,3,4,0
+United States,Vegetables,1,4,3,5,0
